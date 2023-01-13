@@ -1,0 +1,10 @@
+^D:\EXAMPLES\TORCHFILES\EXTREMENET\AGGUPSCALEOP\CMAKELISTS.TXT
+setlocal
+C:\Users\z004eu2t\Anaconda3\envs\wavelet\Lib\site-packages\cmake\data\bin\cmake.exe -SD:/examples/torchfiles/extremenet/aggupscaleop -BD:/examples/torchfiles/extremenet/aggupscaleop/build --check-stamp-file D:/examples/torchfiles/extremenet/aggupscaleop/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

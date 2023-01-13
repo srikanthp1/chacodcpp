@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\examples\torchfiles\extremenet\aggupscaleop\build\CMakeFiles\3804d7b58ad64e1e1670cd0ab2852025\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C8BC7AB7-976F-3715-A8C6-A74C1EB1F3CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
